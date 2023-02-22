@@ -1,3 +1,8 @@
+### ID STUDENT : JCDSOL-009-037
+### Nama : Meizhen Hannah Zahirah
+
+
+
 ### Data Initialization
 Menu = ['1. Informasi Data Pasien',
         '2. Menambahkan Data Pasien',
